@@ -1,0 +1,1 @@
+print(results.multi_handedness[0])
