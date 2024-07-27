@@ -13,3 +13,5 @@
 
 >[!NOTE]
 > ### This program requires a webcam
+
+####  mediapipe is a library by google , it contains models trained on images of hand and faces . I am using this library to detect finger tips , then i am mapping the locations of finger tips using opencv with help of template of piano , finally the actual piano which i made using pygame.
