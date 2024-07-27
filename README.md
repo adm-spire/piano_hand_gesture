@@ -10,5 +10,6 @@
 > - drum2.py is program for playing two types of drums , if finger point is detected inside the circle , sound is played
 > - piano_lists.py is the mapping of piano keys.
 > - there are some audio files for the piano and drum.
-[!NOTE]
+
+>[!NOTE]
 > ### This program requires a webcam
